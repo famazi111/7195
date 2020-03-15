@@ -1,4 +1,4 @@
-# eggs
+# Perfect Eggs
 
 Aplicativo para cozinhar ovos feito com flutter usando Bloc, Provider e animações com flare.
 
